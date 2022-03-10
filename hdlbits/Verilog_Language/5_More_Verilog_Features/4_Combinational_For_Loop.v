@@ -10,3 +10,5 @@ module top_module(
     endgenerate
 
 endmodule
+
+// no LE, only pins

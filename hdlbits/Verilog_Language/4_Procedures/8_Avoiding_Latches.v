@@ -17,3 +17,5 @@ module top_module (
     end
 
 endmodule
+
+// for equal
